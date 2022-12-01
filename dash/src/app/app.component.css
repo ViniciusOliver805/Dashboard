@@ -1,0 +1,8 @@
+.card-row{
+    display:flex;
+}
+.cardpie{
+    display: block;
+    position: relative;
+    bottom: 140px;
+}

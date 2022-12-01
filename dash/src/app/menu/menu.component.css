@@ -1,0 +1,35 @@
+.sidenav-container {
+  height: 100%;  
+  
+
+}
+
+/* menu lateral innteiro */
+.sidenav {
+  width: 200px;
+  color:white;
+  
+  background-image: url(https://www.inmoto.com/i/?item_type=product&item_id=6245);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  
+  
+}
+  
+/* topo do menu lateral */
+.sidenav .mat-toolbar {
+  background: inherit;
+  color: #fff;
+  
+  
+}
+/* barra onde ta escrito dash */
+.mat-toolbar.mat-primary {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+
+
+  
+}
