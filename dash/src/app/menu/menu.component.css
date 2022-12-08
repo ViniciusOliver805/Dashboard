@@ -1,5 +1,9 @@
 .sidenav-container {
-  height: 100%;  
+  height: 100%; 
+  background-image: url(https://images.pexels.com/photos/14299597/pexels-photo-14299597.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
   
 
 }
@@ -20,7 +24,7 @@
 /* topo do menu lateral */
 .sidenav .mat-toolbar {
   background: inherit;
-  color: #fff;
+  color:white;
   
   
 }
@@ -29,6 +33,7 @@
   position: sticky;
   top: 0;
   z-index: 1;
+  background-color: transparent;
 
 
   
